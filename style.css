@@ -1,15 +1,18 @@
 body {
-    background-color: #182838;
+    background-color: #2B3A42;
 }
 
 #clockHeading{
-    font-size: 3vw;
-}
-
-#clock {
+    color: #DEC7BD;
     font-size: 5vw;
 }
 
+#clock {
+    color: #EFEFEF;
+    font-size: 7vw;
+}
+
 #selectHeading{
-    font-size: 2vw;
+    color: #DEC7BD;
+    font-size: 4vw;
 }
