@@ -1,0 +1,15 @@
+body {
+    background-color: #182838;
+}
+
+#clockHeading{
+    font-size: 3vw;
+}
+
+#clock {
+    font-size: 5vw;
+}
+
+#selectHeading{
+    font-size: 2vw;
+}
