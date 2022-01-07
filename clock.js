@@ -1,6 +1,6 @@
 var select = document.getElementById('format');
 
-select.onchange = updateClock()
+select.onchange = updateClock
 
 function updateClock()
 {
